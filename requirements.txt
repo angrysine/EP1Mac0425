@@ -1,7 +1,5 @@
-torch
 numpy
 matplotlib
-torchvision
 pandas
 scikit-learn
 unidecode
